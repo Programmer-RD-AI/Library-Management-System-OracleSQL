@@ -4,19 +4,18 @@ This repository contains the SQL scripts and documentation for a Library Managem
 
 # Repository Structure
 
-`.
-├── sql_scripts # Directory containing SQL scripts for the assignment
-│ ├── additional # SQL scripts for additional features implementation
-│ ├── data_insertion # SQL scripts for inserting data into tables
-│ ├── data_retrieval # SQL scripts for retrieving data from tables
-│ ├── tables # SQL scripts for creating tables
-│ ├── triggers_functions # SQL scripts for triggers and functions implementation
-│ └── types # SQL scripts for creating user-defined types
-├── .gitattributes # Git configuration file for specifying attributes for files under version control
-├── .gitignore # Git configuration file for specifying files and directories to ignore
-├── LICENSE # License file containing the license information for the repository
-├── README.md # Readme file providing an overview of the repository
-└── Report.pdf # PDF document containing the report for the assignment`
+sql_scripts: Directory for SQL scripts, organized into subdirectories:
+  additional: Scripts for additional features.
+  data_insertion: Scripts for data insertion.
+  data_retrieval: Scripts for data retrieval.
+  tables: Scripts for table creation.
+  triggers_functions: Scripts for triggers and functions.
+  types: Scripts for user-defined types.
+.gitattributes: Git configuration file.
+.gitignore: Git configuration file for files to ignore.
+LICENSE: License information.
+README.md: Readme file for the repository.
+Report.pdf: PDF report for the assignment.
 
 ## Coursework Assignment: Advanced Data Modelling
 
