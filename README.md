@@ -2,22 +2,6 @@
 
 This repository contains the SQL scripts and documentation for a Library Management System implemented using Oracle SQL. The project covers various aspects of database design, including table creation, data insertion, triggers, functions, and user-defined types.
 
-# Repository Structure
-
-.
-├── sql_scripts # Directory containing SQL scripts for the assignment
-│ ├── additional # SQL scripts for additional features implementation
-│ ├── data_insertion # SQL scripts for inserting data into tables
-│ ├── data_retrieval # SQL scripts for retrieving data from tables
-│ ├── tables # SQL scripts for creating tables
-│ ├── triggers_functions # SQL scripts for triggers and functions implementation
-│ └── types # SQL scripts for creating user-defined types
-├── .gitattributes # Git configuration file for specifying attributes for files under version control
-├── .gitignore # Git configuration file for specifying files and directories to ignore
-├── LICENSE # License file containing the license information for the repository
-├── README.md # Readme file providing an overview of the repository
-└── Report.pdf # PDF document containing the report for the assignment
-
 ## Coursework Assignment: Advanced Data Modelling
 
 This repository contains the coursework assignment for the module CI6320 Advanced Data Modelling. The assignment was completed by Ranuga Disansa Belpa Gamage (Student ID: E112691) under the guidance of Mr. W A D B C Goonatillaka, the module leader.
