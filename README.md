@@ -4,7 +4,7 @@ This repository contains the SQL scripts and documentation for a Library Managem
 
 # Repository Structure
 
-.
+`.
 ├── sql_scripts # Directory containing SQL scripts for the assignment
 │ ├── additional # SQL scripts for additional features implementation
 │ ├── data_insertion # SQL scripts for inserting data into tables
@@ -16,7 +16,7 @@ This repository contains the SQL scripts and documentation for a Library Managem
 ├── .gitignore # Git configuration file for specifying files and directories to ignore
 ├── LICENSE # License file containing the license information for the repository
 ├── README.md # Readme file providing an overview of the repository
-└── Report.pdf # PDF document containing the report for the assignment
+└── Report.pdf # PDF document containing the report for the assignment`
 
 ## Coursework Assignment: Advanced Data Modelling
 
